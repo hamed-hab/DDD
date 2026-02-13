@@ -19,7 +19,7 @@ All key scenarios (e.g., Brute Force, SQL Injection, Lateral Movement) and metri
 
 ## Citation
 If you use this repository, please cite the archived release:
-- Zenodo DOI: ...
+- Zenodo DOI: [![DOI](https://zenodo.org/badge/1157474786.svg)](https://doi.org/10.5281/zenodo.18636918)
 
 GitHub repository URL:
 -(https://github.com/hamed-hab/DDD)
