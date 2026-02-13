@@ -1,10 +1,8 @@
 # DDD
 A Dynamic Deception–Driven (DDD) Framework for Intelligent Proactive Cyber Defens
-# DDD-SOAR Replication Package
 
 This repository contains the replication package for the thesis:
-**"دفاع پیش‌دستانه هوشمند در امنیت سایبری با استفاده از تله‌گذاری پویا"**
-(DDD-SOAR: Direct-to-Dynamic Deception SOAR).
+A Dynamic Deception–Driven (DDD) Framework for Intelligent Proactive Cyber Defense
 
 ## Contents
 - `data/` : Simulation outputs used to generate the reported results.
